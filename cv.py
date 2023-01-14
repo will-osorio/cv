@@ -8,9 +8,9 @@ from  streamlit_lottie import st_lottie
 st.set_page_config(page_title="My Webpage", page_icon=":D", layout=("wide"))
  
 st.title( "Hello, my name is William Osorio! :wave: ")
-st.header('About:')
-st.write('I am a Finance Professional with a passion for technology and data sciences.')
-st.write("Seeking new challenges and opportunities to drive innovation in financial service ")
+st.header('Summary:')
+st.write('I am a Finance Professional with a passion for technology, data sciences and automation.')
+st.write("I am seeking new challenges and opportunities to drive innovation in the financial service industry.")
 
 st.write('[Learn More > (www.linkedin.com/in/willosorio) ')
 
